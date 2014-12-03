@@ -1,0 +1,9 @@
+Student: Kyle Waltz
+name: Person1, wage: $9.0, hours: 40
+	weekly salary: $360.0
+	annual salary: $18720.0
+name: Person2, wage: $12.0, hours: 43
+name: Person3, wage: $12.5, hours: 48
+	weekly salary: $600.0
+	annual salary: $31200.0
+name: Person3, wage: $13.5, hours: 48
