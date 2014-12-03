@@ -1,0 +1,16 @@
+1,9c1,5
+< Student: Don Irwin
+< name: Roger, wage: $9.0, hours: 40
+< 	weekly salary: 360.0
+< 	annual salary: 18720.0
+< name: Susie, wage: $11.0, hours: 42
+< name: Susan, wage: $11.5, hours: 43
+< 	weekly salary: 494.5
+< 	annual salary: 25714.0
+< name: Susan, wage: $12.5, hours: 43
+---
+> Student: Alek Pensky
+> /tweekly salary: $0.4
+> /tannual salary: $20.8
+> /tweekly salary: $4.0
+> /tannual salary: $208.0

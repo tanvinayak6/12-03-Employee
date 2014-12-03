@@ -1,0 +1,5 @@
+Student: Alek Pensky
+/tweekly salary: $0.4
+/tannual salary: $20.8
+/tweekly salary: $4.0
+/tannual salary: $208.0
