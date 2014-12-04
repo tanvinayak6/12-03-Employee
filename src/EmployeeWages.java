@@ -22,6 +22,7 @@ public class EmployeeWages {
         emp2.setWage(3.0);
         // change emp2's hours
         emp2.setHours(2);
+        
         // print emp2 
         System.out.println(emp2.toString());
         // print emp2's weekly salary (put a tab first) like "       weekly salary: $360.00" 
